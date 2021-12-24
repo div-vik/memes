@@ -1,0 +1,35 @@
+.meme{
+    height: 30rem;
+    width: 30rem;
+}
+
+#memeElement{
+    height: 30rem;
+    width: 30rem;
+}
+
+.share{
+    height: 10px;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    background-color: #1597E5;
+    padding: 5px 5px;
+}
+
+.share a{
+    color: #ffff;
+}
+
+.facebook-btn, .tumblr-btn, .whatsapp-btn, .reddit-btn, .reddit-btn{
+    margin: 0 10px;
+}
+
+a:hover{
+    transition: scale(1.2);
+}
+
+.fab{
+    height: 10px;
+    width: 10px;
+}

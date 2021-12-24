@@ -1,0 +1,13 @@
+{
+    "name": "memes",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "browser_action":{
+        "default_popup": "popup.html",
+        "default_icon": "meme.png"
+    },
+    "icons":{
+        "128": "meme.png"
+    },
+    "permissions": ["activeTab"]
+}
